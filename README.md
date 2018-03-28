@@ -1,4 +1,4 @@
-리드미를 수정했습니다!!!
+3번째 커밋을 해보겠습니다!!
 
 To get started, just do the following:
 
