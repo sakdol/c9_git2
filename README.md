@@ -1,4 +1,4 @@
-gitgitgitgit
+리드미를 수정했습니다!!!
 
 To get started, just do the following:
 
